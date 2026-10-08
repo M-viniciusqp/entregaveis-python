@@ -1,0 +1,4 @@
+email,cpf,telefone,data
+joao@gmail.com,123.456.789-00,(98) 91234-5678,15/08/2000
+maria@email.com,111.222.333-44,(98) 3234-5678,20/10/2002
+emailinvalido,123,999,2025
